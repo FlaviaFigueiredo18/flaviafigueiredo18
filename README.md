@@ -66,5 +66,5 @@ Me chamo Flávia Figueiredo, tenho 26 anos e sou de São Paulo. Atualmente, esto
 ---
 
 ### 📫 Contato
-- 📧 flavia@email.com  
+- 📧 arianearaujo75@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fl%C3%A1via-figueiredo-714754231/)  
