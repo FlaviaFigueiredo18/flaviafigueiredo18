@@ -26,27 +26,39 @@ Me chamo Flávia Figueiredo, tenho 26 anos e sou de São Paulo. Atualmente, esto
 
 # 📜 Certificados
 
-## ![Alura](https://www.alura.com.br/assets/img/alura-logo.1686744883.svg) 
-- **HTML e CSS: Classes, posicionamento e Flexbox** (set/2025)
-- **Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação** (set/2025)
-- **Angular 19: Estruture componentes com signals e controle de fluxo** (ago/2025)
-- **Python e TDD: explorando testes unitários**  (ago/2025)
-- **Git e GitHub: compartilhando e colaborando em projetos**  (jul/2025)
-- **Amazon Lightsail: descomplicando a nuvem** (mai/2025)
-- **UX Design: entenda a área da User Experience**  (abr/2025)
-- **Microsoft SQL Server 2022: conhecendo SQL** (ago/2024)  
-- **Modelagem de dados: identificando entidades, atributos, relacionamentos** (ago/2024)  
-- **Power BI Desktop: construindo meu primeiro dashboard** (ago/2024)  
-- **Power BI Desktop: realizando ETL no Power Query** (ago/2024)  
-- **Excel: aprendendo lógica booleana e busca por valores** (jun/2024)  
-- **Lógica de programação: explore funções e listas** (jun/2024)  
-- **Lógica de programação: mergulhe em programação com JavaScript** (jun/2024)  
-- **Conhecendo SQL** (mai/2024)  
-- **Excel: domine o editor de planilhas** (mai/2024)  
-- **SQLite Online: executando consultas SQL** (mai/2024)  
-- **SQLite online: análise de dados com SQL** (mai/2024)  
-- **SQLite online: conhecendo instruções SQL** (mai/2024)  
-- **Gestão Ágil: explorando conceitos da agilidade** (abr/2024)  
+## ☁️ AWS
+- [x] **Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação** (set/2025)  
+- [x] **Amazon Lightsail: descomplicando a nuvem** (mai/2025)  
+
+---
+
+## 🎨 Front-end
+- [x] **HTML e CSS: Classes, posicionamento e Flexbox** (set/2025)  
+- [x] **Angular 19: Estruture componentes com signals e controle de fluxo** (ago/2025)  
+- [x] **Lógica de programação: mergulhe em programação com JavaScript** (jun/2024)  
+
+---
+
+## ⚙️ Back-end
+- [x] **Python e TDD: explorando testes unitários** (ago/2025)  
+- [x] **Microsoft SQL Server 2022: conhecendo SQL** (ago/2024)  
+- [x] **Modelagem de dados: identificando entidades, atributos, relacionamentos** (ago/2024)  
+- [x] **Conhecendo SQL** (mai/2024)  
+- [x] **SQLite Online: executando consultas SQL** (mai/2024)  
+- [x] **SQLite online: análise de dados com SQL** (mai/2024)  
+- [x] **SQLite online: conhecendo instruções SQL** (mai/2024)  
+- [x] **Lógica de programação: explore funções e listas** (jun/2024)  
+
+---
+
+## 💼 Negócio / Ferramentas
+- [x] **Git e GitHub: compartilhando e colaborando em projetos** (jul/2025)  
+- [x] **UX Design: entenda a área da User Experience** (abr/2025)  
+- [x] **Power BI Desktop: construindo meu primeiro dashboard** (ago/2024)  
+- [x] **Power BI Desktop: realizando ETL no Power Query** (ago/2024)  
+- [x] **Excel: aprendendo lógica booleana e busca por valores** (jun/2024)  
+- [x] **Excel: domine o editor de planilhas** (mai/2024)  
+- [x] **Gestão Ágil: explorando conceitos da agilidade** (abr/2024) 
 
 ---
 
