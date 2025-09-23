@@ -26,6 +26,7 @@ Me chamo Flávia Figueiredo, tenho 26 anos e sou de São Paulo. Atualmente, esto
 
 # 📜 Certificados
 
+## <img src="https://www.alura.com.br/assets/img/alura-logo.1686744883.svg" alt="Alura" width="80px"/>
 ## ☁️ AWS
 - [x] **Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação** (set/2025)  
 - [x] **Amazon Lightsail: descomplicando a nuvem** (mai/2025)  
