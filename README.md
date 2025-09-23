@@ -31,14 +31,12 @@ Me chamo Flávia Figueiredo, tenho 26 anos e sou de São Paulo. Atualmente, esto
 - [x] **Amazon EC2: alta disponibilidade e escalabilidade em uma aplicação** (set/2025)  
 - [x] **Amazon Lightsail: descomplicando a nuvem** (mai/2025)  
 
----
 
 ## 🎨 Front-end
 - [x] **HTML e CSS: Classes, posicionamento e Flexbox** (set/2025)  
 - [x] **Angular 19: Estruture componentes com signals e controle de fluxo** (ago/2025)  
 - [x] **Lógica de programação: mergulhe em programação com JavaScript** (jun/2024)  
 
----
 
 ## ⚙️ Back-end
 - [x] **Python e TDD: explorando testes unitários** (ago/2025)  
@@ -50,7 +48,6 @@ Me chamo Flávia Figueiredo, tenho 26 anos e sou de São Paulo. Atualmente, esto
 - [x] **SQLite online: conhecendo instruções SQL** (mai/2024)  
 - [x] **Lógica de programação: explore funções e listas** (jun/2024)  
 
----
 
 ## 💼 Negócio / Ferramentas
 - [x] **Git e GitHub: compartilhando e colaborando em projetos** (jul/2025)  
